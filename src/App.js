@@ -4,10 +4,16 @@ import "./styles.css";
 const emojiDictionary = {
   "💫": "Dizzy",
   "💥": "Collision",
+  "🥶": "Cold Face",
   "🔥": "Lit",
   "✨": "Sparkles",
   "🎊": "Party Popper",
-  "⚠️": "Warning"
+  "⚠️": "Warning",
+  "❤️": "Red Heart",
+  "😂": "Tears of Joy",
+  "💀": "Skull",
+  "💢": "Anger",
+  "🤩": "Star-Struck"
 };
 
 const emojis = Object.keys(emojiDictionary);
